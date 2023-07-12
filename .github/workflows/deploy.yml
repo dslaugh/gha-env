@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: cluster0.ule2zyb.mongodb.net/?retryWrites=true&w=majority
+      MONGODB_CLUSTER_ADDRESS: cluster0.ule2zyb.mongodb.net
       MONGODB_USERNAME: dslaugh
       MONGODB_PASSWORD: rNJP0wQTQDAADBye
       PORT: 8080
